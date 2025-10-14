@@ -71,8 +71,8 @@ const siteIcon = {
   Fire,
   LaptopCode,
   envira,
-  heart，
-  GameControllerOutline，
+  heart,
+  GameControllerOutline
 };
 
 // 链接跳转
