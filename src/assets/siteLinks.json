@@ -13,5 +13,15 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.guangzhoueven.dpdns.org/"
+  },
+  {
+    "icon": "heart",
+    "name": "烟花",
+    "link": "https://fireworks.guangzhoueven.dpdns.org/"
+  },
+  {
+    "icon": "envira",
+    "name": "Markdown",
+    "link": "https://markdown.guangzhoueven.dpdns.org/"
   }
 ]
