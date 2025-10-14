@@ -70,6 +70,9 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  envira,
+  heart，
+  GameControllerOutline，
 };
 
 // 链接跳转
