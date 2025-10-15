@@ -70,7 +70,9 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
-  Gamepad
+  Gamepad,
+  Box,
+  Toolbox
 };
 
 // 链接跳转
@@ -78,7 +80,7 @@ const jumpLink = (data) => {
   if (data.name === "音乐" && store.musicClick) {
     if (typeof $openList === "function") $openList();
   } else {
-    window.open(data.link, "_blank");
+    window.open(data.link， "_blank");
   }
 };
 
