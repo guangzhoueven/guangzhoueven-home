@@ -41,7 +41,7 @@ const openMusicShow = ref(false);
 // 一言数据
 const hitokotoData = reactive({
   text: "这里应该显示一句话",
-  from: "無名",
+  from: "guangzhou_even",
 });
 
 // 获取一言数据
@@ -52,14 +52,14 @@ const getHitokotoData = async () => {
     hitokotoData.from = result.from;
   } catch (error) {
     ElMessage({
-      message: "一言获取失败",
+      message: "哎呀！一言获取失败！",
       icon: h(Error, {
         theme: "filled",
         fill: "#efefef",
       }),
     });
     hitokotoData.text = "这里应该显示一句话";
-    hitokotoData.from = "無名";
+    hitokotoData.from = "guangzhou_even";
   }
 };
 
