@@ -1,5 +1,5 @@
 <template>
-  <div class="more-content">时间原来过得那么快</div>
+  <div class="more-content">时间原来过得这么快</div>
 </template>
 
 <style lang="scss" scoped>
