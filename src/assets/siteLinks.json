@@ -28,5 +28,10 @@
     "icon": "Box",
     "name": "Boxel游戏",
     "link": "https://boxel.guangzhoueven.dpdns.org/"
+  },
+  {
+    "icon": "Gamepad",
+    "name": "俄罗斯方块",
+    "link": "https://tetris.guangzhoueven.dpdns.org/"
   }
 ]
