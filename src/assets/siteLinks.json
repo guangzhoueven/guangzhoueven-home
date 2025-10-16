@@ -33,5 +33,10 @@
     "icon": "Gamepad",
     "name": "俄罗斯方块",
     "link": "https://tetris.guangzhoueven.dpdns.org/"
+  },
+  {
+    "icon": "Bomb",
+    "name": "扫雷",
+    "link": "https://minesweeper.guangzhoueven.dpdns.org/"
   }
 ]
