@@ -38,5 +38,10 @@
     "icon": "Bomb",
     "name": "扫雷",
     "link": "https://minesweeper.guangzhoueven.dpdns.org/"
+  },
+  {
+    "icon": "Gamepad",
+    "name": "塔防",
+    "link": "https://tafang.guangzhoueven.dpdns.org/"
   }
 ]
