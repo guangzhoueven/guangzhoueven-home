@@ -44,7 +44,6 @@
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
 import { Link, Blog, CompactDisc, Cloud, Compass, Book, Fire, LaptopCode, Box, Toolbox, Gamepad, Bomb, Markdown } from "@vicons/fa"; // 注意使用正确的类别
-import { TetrisApp48Filled } from "@vicons/fluent";
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -75,8 +74,7 @@ const siteIcon = {
   Toolbox,
   Gamepad,
   Bomb,
-  Markdown,
-  TetrisApp48Filled
+  Markdown
 };
 
 // 链接跳转
