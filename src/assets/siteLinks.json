@@ -16,6 +16,11 @@
   },
   {
     "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.guangzhoueven.dpdns.org/"
+  },
+  {
+    "icon": "Fire",
     "name": "烟花",
     "link": "https://fireworks.guangzhoueven.dpdns.org/"
   },
