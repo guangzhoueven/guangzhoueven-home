@@ -40,7 +40,7 @@ const openMusicShow = ref(false);
 
 // 一言数据
 const hitokotoData = reactive({
-  text: "这里应该显示一句话",
+  text: "啊？这里应该显示一句话！",
   from: "guangzhou_even",
 });
 
@@ -58,7 +58,7 @@ const getHitokotoData = async () => {
         fill: "#efefef",
       }),
     });
-    hitokotoData.text = "这里应该显示一句话";
+    hitokotoData.text = "啊？这里应该显示一句话！";
     hitokotoData.from = "guangzhou_even";
   }
 };
