@@ -2,17 +2,17 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.guangzhoueven.dpdns.org/"
+    "link": "https://blog.gzeven.cc.cd/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.guangzhoueven.dpdns.org/"
+    "link": "https://nav.gzeven.cc.cd/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.guangzhoueven.dpdns.org/"
+    "link": "https://status.gzeven.cc.cd/"
   },
   {
     "icon": "Fire",
@@ -22,31 +22,31 @@
   {
     "icon": "Fire",
     "name": "烟花",
-    "link": "https://fireworks.guangzhoueven.dpdns.org/"
+    "link": "https://fireworks.gzeven.cc.cd/"
   },
   {
     "icon": "Markdown",
     "name": "Markdown",
-    "link": "https://markdown.guangzhoueven.dpdns.org/"
+    "link": "https://markdown.gzeven.cc.cd/"
   },
   {
     "icon": "Box",
     "name": "Boxel游戏",
-    "link": "https://boxel.guangzhoueven.dpdns.org/"
+    "link": "https://boxel.gzeven.cc.cd/"
   },
   {
     "icon": "Gamepad",
     "name": "俄罗斯方块",
-    "link": "https://tetris.guangzhoueven.dpdns.org/"
+    "link": "https://tetris.gzeven.cc.cd/"
   },
   {
     "icon": "Bomb",
     "name": "扫雷",
-    "link": "https://minesweeper.guangzhoueven.dpdns.org/"
+    "link": "https://minesweeper.gzeven.cc.cd/"
   },
   {
     "icon": "Gamepad",
     "name": "塔防",
-    "link": "https://tafang.guangzhoueven.dpdns.org/"
+    "link": "https://tafang.gzeven.cc.cd/"
   }
 ]
